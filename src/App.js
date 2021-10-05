@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import LeftNav from './components/styled/LeftNav';
-import { BrowserRouter as Router, Route, NavLink, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, NavLink, Switch } from 'react-router-dom';
 import Intro from './components/pages/Intro';
 import MainContainer from './components/styled/MainContainer';
 import ClassComponent from './components/pages/ClassComponent';
