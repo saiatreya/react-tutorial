@@ -1,0 +1,17 @@
+.file-name {
+  background: pink;
+  color: white;
+  padding: 20px;
+}
+.modal {
+  position: absolute;
+  top: 38%;
+  left: 38%;
+  transform: translate(-50px,-50px);
+  background: white;
+  z-index: 100;
+  box-shadow: 2px 2px 12px 2px #111;
+  width: 500px;
+  height: 50%;
+  text-align: center;
+}

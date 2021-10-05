@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-tutorial"]=this["webpackJsonpreact-tutorial"]||[]).push([[3],{79:function(t,e,a){"use strict";a.r(e);var n=a(0);a(1);e.default=function(){return Object(n.jsx)("div",{children:"Lazy Loaded Component"})}}}]);
+//# sourceMappingURL=3.1fb85730.chunk.js.map
