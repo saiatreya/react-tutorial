@@ -42,7 +42,7 @@ const activeStyles = {
 function App() {
   return (
     <React.Fragment>
-      <Router basename="/react-tutorial">
+      <Router basename="/">
         <LeftNav>
           <NavLink to="/" activeStyle={activeStyles} exact>Introduction</NavLink>
           <NavLink to="/components" exact activeStyle={activeStyles}>Class & Functional Components</NavLink>
